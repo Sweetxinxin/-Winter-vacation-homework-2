@@ -1,0 +1,4 @@
+@echo off
+echo 输入文件名
+test
+pause
